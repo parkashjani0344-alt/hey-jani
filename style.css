@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+.ask{
+    width: 500px;
+    background-color: lightgrey;
+    color: black;
+    margin: 30px;
+    padding: 20px;
+
+}
+.span{
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.reply{
+    background-color: lightslategray;
+    color: black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 30px;
+}
+    
